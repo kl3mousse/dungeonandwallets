@@ -1,0 +1,4 @@
+# Dungeon & Wallets - Dependencies
+textual>=0.40.0
+rich>=13.0.0
+qrcode>=7.0.0
